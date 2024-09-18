@@ -22,14 +22,14 @@ from PIL import Image
 
 
 FISH_IMAGES = {
-    "Angelfish" : Image.open("/Users/jolieganzell/Library/CloudStorage/OneDrive-BowdoinCollege/semester7_fall2024/Computational Creativity/M3 Mock Dive/M2_Markov_Chains/assets/angelfish.png"),
-    "Eagle Ray" : Image.open("/Users/jolieganzell/Library/CloudStorage/OneDrive-BowdoinCollege/semester7_fall2024/Computational Creativity/M3 Mock Dive/M2_Markov_Chains/assets/eagleray.png"),
-    "Barracuda" : Image.open("/Users/jolieganzell/Library/CloudStorage/OneDrive-BowdoinCollege/semester7_fall2024/Computational Creativity/M3 Mock Dive/M2_Markov_Chains/assets/barracuda.png"),
-    "Nurse Shark" : Image.open("/Users/jolieganzell/Library/CloudStorage/OneDrive-BowdoinCollege/semester7_fall2024/Computational Creativity/M3 Mock Dive/M2_Markov_Chains/assets/nurseshark.png"),
-    "Grouper" : Image.open("/Users/jolieganzell/Library/CloudStorage/OneDrive-BowdoinCollege/semester7_fall2024/Computational Creativity/M3 Mock Dive/M2_Markov_Chains/assets/grouper.png")
+    "Angelfish" : Image.open("/Users/jolieganzell/Library/CloudStorage/OneDrive-BowdoinCollege/semester7_fall2024/Computational Creativity/M3 Mock Dive/M3_Markov_Distinction/assets/angelfish.png"),
+    "Eagle Ray" : Image.open("/Users/jolieganzell/Library/CloudStorage/OneDrive-BowdoinCollege/semester7_fall2024/Computational Creativity/M3 Mock Dive/M3_Markov_Distinction/assets/eagleray.png"),
+    "Barracuda" : Image.open("/Users/jolieganzell/Library/CloudStorage/OneDrive-BowdoinCollege/semester7_fall2024/Computational Creativity/M3 Mock Dive/M3_Markov_Distinction/assets/barracuda.png"),
+    "Nurse Shark" : Image.open("/Users/jolieganzell/Library/CloudStorage/OneDrive-BowdoinCollege/semester7_fall2024/Computational Creativity/M3 Mock Dive/M3_Markov_Distinction/assets/nurseshark.png"),
+    "Grouper" : Image.open("/Users/jolieganzell/Library/CloudStorage/OneDrive-BowdoinCollege/semester7_fall2024/Computational Creativity/M3 Mock Dive/M3_Markov_Distinction/assets/grouper.png")
 }
 
-BACKGROUND_IMAGE = Image.open("/Users/jolieganzell/Library/CloudStorage/OneDrive-BowdoinCollege/semester7_fall2024/Computational Creativity/M3 Mock Dive/M2_Markov_Chains/assets/reef.JPG")
+BACKGROUND_IMAGE = Image.open("/Users/jolieganzell/Library/CloudStorage/OneDrive-BowdoinCollege/semester7_fall2024/Computational Creativity/M3 Mock Dive/M3_Markov_Distinction/assets/reef.JPG")
 
 
 class MockDive:
