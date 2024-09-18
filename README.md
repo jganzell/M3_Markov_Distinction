@@ -1,0 +1,11 @@
+# M3: Mock Dive Simulation
+Jolie Ganzell
+17 Sept 2024
+
+This code is a simulation for a SCUBA diving trip. While diving, you see many fish, and the presence of certain species of fish may have an effect on the other species of fish that are in the area. So, this program displays what fish you might see based on the previous fish you just saw. To run this code, make sure the fish images are in the same folder as the code, and change the constants at the top of the code so that the pathname of the images is true to where the images are saved on your device. Then press run and watch fish appear on your screen!
+
+I am a marine biology major interested in persuing graduate school in marine sciences, and a PADI Divemaster (a professional dive certification). Thus to say, diving and the ocean are important parts of my life. I made this system personally meaningful by incorprorating my love for diving with my interest in computer science. Also, all of the images in this project are my own that I took while completing a summer internship in Honduras, so it was fun to incorprorate my own photography into this simulation.
+
+Since this is my first computer science class in over a year, I think that this entire project challenged me by being a great introduction back into programming and python. Even things like defining classes I had not done in a while, but it was fun to recall what I had learned in previous computer science classes and not had to use for a little while. But even so, I tried to not take the easy way out of this project, but to use a little extra creativity to turn challenge myself a little extra. I think the most challenging part was getting the annimatiion to work, but I felt very satisfied when I was able to make it happen.
+
+I do believe that this system is creative because it is both novel and valuable. I have never seen a system like this before, and I think that combining the fields of biology and computer science add to its uniqueness. Trying to bring fish out of the ocean can be useful as well as entertaining. Not everyone has access to SCUBA equipment or certifications or the ability to dive in the ocean, and so this helps make the ocean and marine science more accessable to all.
